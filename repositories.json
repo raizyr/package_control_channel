@@ -1,7 +1,9 @@
 {
 	"schema_version": "1.0",
 	"repositories": [
-		"https://github.com/arioch/sublime-text-puppet"
+		"https://github.com/arioch/sublime-text-puppet",
+		"https://github.com/JulianEberius/SublimeRope",
+		"https://github.com/Kronuz/SublimeLinter"
 	],
 	"package_name_map": {
 		"sublime-text-puppet": "Puppet Language Syntax"
